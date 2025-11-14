@@ -12,7 +12,7 @@
 <img align="right" height="0" src=""  />
 
 ###
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](Ar13el.github.io/menu)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,8 +26,5 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
 
 ###
